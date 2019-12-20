@@ -7,4 +7,9 @@ class Shoe
     @brand = brand
   end
 
+  def cobble(repair)
+    
+
+  end
+
 end
